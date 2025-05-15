@@ -3,3 +3,5 @@ pandas
 matplotlib
 openpyxl
 plotly
+xlswriter
+uuid
